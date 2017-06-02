@@ -1,28 +1,28 @@
 <?php
-   $s_plugin_TimeTracking_title = 'ºÄÊ±¸ú×Ù';
-   $s_plugin_TimeTracking_subtitle = 'Èç¹ûÄãÊÇ´ËÏîÄ¿Ïà¹ØÈËÔ±,ÔÚÕâÀï¼ÇÂ¼ÄãµÄ¹¤×÷.';
-   $s_plugin_TimeTracking_user = 'ÓÃ»§';
+   $s_plugin_TimeTracking_title = 'è€—æ—¶è·Ÿè¸ª';
+   $s_plugin_TimeTracking_subtitle = 'å¦‚æžœä½ æ˜¯æ­¤é¡¹ç›®ç›¸å…³äººå‘˜,åœ¨è¿™é‡Œè®°å½•ä½ çš„å·¥ä½œ.';
+   $s_plugin_TimeTracking_user = 'ç”¨æˆ·';
 
    $s_plugin_TimeTracking_admin_own_threshold = 'Admin Own Threshold';
    $s_plugin_TimeTracking_view_others_threshold = 'View Others Threshold';
    $s_plugin_TimeTracking_admin_threshold = 'Admin Threshold';
-   $s_plugin_TimeTracking_categories = '·ÖÀà';
+   $s_plugin_TimeTracking_categories = 'åˆ†ç±»';
 
-   $s_plugin_TimeTracking_expenditure_date = '¹ýÆÚ';
-   $s_plugin_TimeTracking_hours = 'Ð¡Ê±';
-   $s_plugin_TimeTracking_category = 'Àà±ð';
-   $s_plugin_TimeTracking_information = 'ËµÃ÷';
-   $s_plugin_TimeTracking_configuration = 'ÅäÖÃ';
-   $s_plugin_TimeTracking_update = '¸üÐÂ';
-   $s_plugin_TimeTracking_entry_date = 'Ê±¼ä(×Ô¶¯Éú³É)';
-   $s_plugin_TimeTracking_submit = 'Ìí¼Ó';
-   $s_plugin_TimeTracking_sum = 'ºÏ¼Æ';
-   $s_plugin_TimeTracking_delete = 'É¾³ý';
-   $s_plugin_TimeTracking_value_error = 'ÇëÊäÈëÓÐÐ§µÄÐ¡Ê±ÊýÖµ!';
-   $s_plugin_TimeTracking_history = 'ÒÑÓÃÊ±';
-   $s_plugin_TimeTracking_deleted = 'ÒÑÉ¾³ý';
-   $s_plugin_TimeTracking_timerecord_menu = 'ºÄÊ±¸ú×Ù';
+   $s_plugin_TimeTracking_expenditure_date = 'è¿‡æœŸ';
+   $s_plugin_TimeTracking_hours = 'å°æ—¶';
+   $s_plugin_TimeTracking_category = 'ç±»åˆ«';
+   $s_plugin_TimeTracking_information = 'è¯´æ˜Ž';
+   $s_plugin_TimeTracking_configuration = 'é…ç½®';
+   $s_plugin_TimeTracking_update = 'æ›´æ–°';
+   $s_plugin_TimeTracking_entry_date = 'æ—¶é—´(è‡ªåŠ¨ç”Ÿæˆ)';
+   $s_plugin_TimeTracking_submit = 'æ·»åŠ ';
+   $s_plugin_TimeTracking_sum = 'åˆè®¡';
+   $s_plugin_TimeTracking_delete = 'åˆ é™¤';
+   $s_plugin_TimeTracking_value_error = 'è¯·è¾“å…¥æœ‰æ•ˆçš„å°æ—¶æ•°å€¼!';
+   $s_plugin_TimeTracking_history = 'å·²ç”¨æ—¶';
+   $s_plugin_TimeTracking_deleted = 'å·²åˆ é™¤';
+   $s_plugin_TimeTracking_timerecord_menu = 'è€—æ—¶è·Ÿè¸ª';
 
-   $s_plugin_TimeTracking_get_info = '»ñÈ¡ºÄÊ±¸ú×ÙÇé¿ö';
+   $s_plugin_TimeTracking_get_info = 'èŽ·å–è€—æ—¶è·Ÿè¸ªæƒ…å†µ';
 
 ?>
