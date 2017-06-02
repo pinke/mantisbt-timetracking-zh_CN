@@ -1,0 +1,28 @@
+<?php
+   $s_plugin_TimeTracking_title = '耗时跟踪';
+   $s_plugin_TimeTracking_subtitle = '如果你是此项目相关人员,在这里记录你的工作.';
+   $s_plugin_TimeTracking_user = '用户';
+
+   $s_plugin_TimeTracking_admin_own_threshold = 'Admin Own Threshold';
+   $s_plugin_TimeTracking_view_others_threshold = 'View Others Threshold';
+   $s_plugin_TimeTracking_admin_threshold = 'Admin Threshold';
+   $s_plugin_TimeTracking_categories = '分类';
+
+   $s_plugin_TimeTracking_expenditure_date = '过期';
+   $s_plugin_TimeTracking_hours = '小时';
+   $s_plugin_TimeTracking_category = '类别';
+   $s_plugin_TimeTracking_information = '说明';
+   $s_plugin_TimeTracking_configuration = '配置';
+   $s_plugin_TimeTracking_update = '更新';
+   $s_plugin_TimeTracking_entry_date = '时间(自动生成)';
+   $s_plugin_TimeTracking_submit = '添加';
+   $s_plugin_TimeTracking_sum = '合计';
+   $s_plugin_TimeTracking_delete = '删除';
+   $s_plugin_TimeTracking_value_error = '请输入有效的小时数值!';
+   $s_plugin_TimeTracking_history = '已用时';
+   $s_plugin_TimeTracking_deleted = '已删除';
+   $s_plugin_TimeTracking_timerecord_menu = '耗时跟踪';
+
+   $s_plugin_TimeTracking_get_info = '获取耗时跟踪情况';
+
+?>
