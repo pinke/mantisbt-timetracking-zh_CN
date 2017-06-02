@@ -1,2 +1,3 @@
-** Mantisbt timetracking ²å¼ş¼òÌåÖĞÎÄÓïÑÔÎÄ¼ş
-`strings_chinese_simplified.txt ÎÄ¼ş¿½±´µ½ mantisbt/plugins/TimeTracking/lang Ä¿Â¼ÏÂ¼´¿É` 
+## Mantisbt timetracking æ’ä»¶ç®€ä½“ä¸­æ–‡è¯­è¨€æ–‡ä»¶
+
+`strings_chinese_simplified.txt æ–‡ä»¶æ‹·è´åˆ° mantisbt/plugins/TimeTracking/lang ç›®å½•ä¸‹å³å¯` 
